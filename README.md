@@ -313,21 +313,7 @@ This work was shortlisted after peer review and presented at the conference.
 |---|---|
 | **Paper** | *Dual-Band Terahertz Metamaterial Absorber with Enhanced Sensing Capabilities*: [Read the full paper (PDF)](paper/SCPGCON_Paper.pdf) |
 | **Certificate** | [View the presentation certificate](certificate/SCPGCON_Certificate.pdf) |
-| **Format** | IEEE conference paper, ISBN 979-8-3315-5173-5/26 |
-
-### Citation
-
-```bibtex
-@inproceedings{scpgcon2026_thz_absorber,
-  title     = {Dual-Band Terahertz Metamaterial Absorber with Enhanced Sensing Capabilities},
-  author    = {Tejashree S and Chaya B M and Likith S and Chethan R},
-  booktitle = {2026 Smart RF Communication, Photonics, Geoscience and Remote Sensing Conference (SCPGCON)},
-  year      = {2026},
-  publisher = {IEEE}
-}
-```
-
----
+| **Format** | IEEE conference paper |
 
 ## Team
 
