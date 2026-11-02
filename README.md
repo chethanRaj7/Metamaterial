@@ -11,7 +11,7 @@
 
 **Sai Vidya Institute of Technology, Bengaluru** · Department of Electronics and Communication Engineering
 
-[Paper](paper/SCPGCON_Paper.pdf) · [Certificate](certificate/SCPGCON_Certificate.pdf) · [Results](#key-results-at-a-glance)
+[Paper](paper/SCPGCON_Paper.pdf) · [Certificate](certificate/SCPGCON_certificate.jpeg) · [Results](#key-results-at-a-glance)
 
 </div>
 
@@ -312,7 +312,7 @@ This work was shortlisted after peer review and presented at the conference.
 | | |
 |---|---|
 | **Paper** | *Dual-Band Terahertz Metamaterial Absorber with Enhanced Sensing Capabilities*: [Read the full paper (PDF)](paper/SCPGCON_Paper.pdf) |
-| **Certificate** | [View the presentation certificate](certificate/SCPGCON_Certificate.pdf) |
+| **Certificate** | [View the presentation certificate](certificate/SCPGCON_certificate.jpeg) |
 | **Format** | IEEE conference paper |
 
 ## Team
